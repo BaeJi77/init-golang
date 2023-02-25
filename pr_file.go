@@ -2,6 +2,6 @@ package main
 
 import "fmt"
 
-func UnUsedMethod() {
+func method() {
 	fmt.Println("this method is not used")
 }
